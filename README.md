@@ -36,9 +36,16 @@ $ python -V
 
 Чтобы использовать бомбардировщик, введите следующие команды в Termux:
 
-pkg install git
-pkg install python
+
+pkg установить git
+
+
+pkg установить python
+
+
+
+
 git clone https://github.com/DeadTeX/SkyBomb.git
 cd SkyBomb
-chmod +x SkyBomb.sh
+chmod + x SkyBomb.sh
 ./SkyBomb.sh
