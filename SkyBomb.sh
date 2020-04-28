@@ -16,7 +16,7 @@ apt install python3-pip
 pip install -r requirements.txt
 echo This Script Was Made By DeadTX >update.deadtxx
 echo Requirements Installed....
-echo Надми Enter Чтоб Продолжить...
+echo Нажми Enter Чтоб Продолжить...
 read upd
 fi
 while :
@@ -25,17 +25,17 @@ rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
 figlet SkyBomb
-echo -e "\e[1;34m Перевод:создан \e[1;32m"
+echo -e "\e[1;34m Программа создана \e[1;32m"
 toilet -f mono12 -F border DeadTX
-echo -e "\e[4;34m Этот Бомюер Создан  DeadTX \e[0m"
-echo -e "\e[1;34m Связаться со мной Можно ho -e "\e[1;32m           Telegram:https://t.me/nonamehacks \e[0m"
+echo -e "\e[4;34m Этот Бомбер Создан  DeadTX \e[0m"
+echo -e "\e[1;34m Связаться со мной Можно echo -e "\e[1;32m           Telegram:https://t.me/nonamehacks \e[0m"
 echo -e "\e[4;32m   
 echo " "
-echo -e "\e[4;31m Пожалуйста Прочтите ИнструкциЮ !!! \e[0m"
+echo -e "\e[4;31m Пожалуйста Прочтите Инструкцию !!! \e[0m"
 echo " "
 echo "Нажмите 1, чтобы запустить SMS Bomber "
 echo "Нажмите 2, чтобы Запустить Call Bomber "
-echo "Надми 3 чтоб Обновить (Works On Linux And Linux Emulators) "
+echo "Нажми 3 чтоб Обновить (Works On Linux And Linux Emulators) "
 echo "Нажми 4 чтобы Посмотреть особенности "
 echo "Нажми 5 чтоб Выйти "
 read ch
@@ -96,7 +96,7 @@ echo -e "\e[1;33m      [*]  @nonamehacks (Telegram)   \e[1;31m"
 echo ""
 echo ""
 echo -e "\e[1;Этот сценарий предназначен только для образовательных целей или шутки.\e[0m"
-echo -e "\e[1;31m Не используйте это, чтобы навредить Кому-То. \e[0m"
+echo -e "\e[1;31m Не используйте бомбер, чтобы навредить Кому-То. \e[0m"
 echo -e "\e[1;31m Я не несу ответственности за злоупотребление Скриптом. \e[0m"
 echo  " "
 echo -e "\e[4;31m Это все !!!\e[0m"
